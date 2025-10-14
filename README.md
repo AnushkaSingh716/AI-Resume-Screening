@@ -84,6 +84,8 @@ ai-resume-screening/
 ├── public/               # Static assets
 └── ...                   # Config files
 ```
+AI Resume Screening was built to make that understanding faster, fairer, and more insightful.
+Every line of code here is written to empower recruiters, save time, and help great talent shine. 🌟
 
 ---
 
