@@ -1,6 +1,3 @@
-Here’s a **revamped, more engaging, and modernized version** of your README file — with improved structure, energy, and readability. It adds flair while keeping it professional and developer-friendly 👇
-
----
 
 # ⚡ AI Resume Screening
 
