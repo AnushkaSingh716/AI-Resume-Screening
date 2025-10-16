@@ -1,5 +1,4 @@
-
-# ⚡ AI Resume Screening
+⚡ AI Resume Screening
 
 <div align="center">
 
